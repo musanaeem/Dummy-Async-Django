@@ -1,0 +1,4 @@
+*.sqlite3
+locustfile.py
+__pycache__
+.DS_Store
